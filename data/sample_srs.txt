@@ -1,0 +1,4 @@
+The user logs into the system.
+The user manages orders.
+The admin monitors system activity.
+Orders contain products.

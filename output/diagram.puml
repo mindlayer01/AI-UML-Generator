@@ -1,0 +1,11 @@
+@startuml
+class user
+class system
+class monitors
+class orders
+class activity
+class products
+user --> system : logs
+system --> monitors : manages
+monitors --> orders : contain
+@enduml
